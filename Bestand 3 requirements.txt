@@ -1,4 +1,4 @@
 streamlit
-pymupdf
+pip install pymupdf
 pandas
 openpyxl
